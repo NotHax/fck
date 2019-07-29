@@ -1,5 +1,5 @@
 #!bin/bash
-trap(){
+
       echo "_                               _____   _____ "
       sleep 0.03
       echo "| |                             |_   _| |  __ \ " 
@@ -17,7 +17,7 @@ trap(){
       echo "|______|  \___/   \___|  \__,_| |_____| |_| "
       sleep 0.03
       
-}
+
 get_url=$(curl -s https://instagram.com/notguardianyt.php?request=trap) #cek status
 mulai(){
       echo "Pakai LocaIP Lagi?"
